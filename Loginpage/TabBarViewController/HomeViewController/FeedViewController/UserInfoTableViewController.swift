@@ -56,6 +56,8 @@ class UserInfoTableViewController: UIViewController, UITableViewDelegate,UITable
                 task.resume()
             }
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 200
+       //return 200
+        return 250
     }
 }
+// manish prajapat change required
