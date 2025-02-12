@@ -1,0 +1,6 @@
+framework module IQListKit {
+  umbrella header "IQListKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

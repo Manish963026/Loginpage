@@ -1,0 +1,6 @@
+framework module IQDropDownTextFieldSwift {
+  umbrella header "IQDropDownTextFieldSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
